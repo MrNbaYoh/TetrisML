@@ -1,0 +1,1 @@
+let random_value array = array.(random__int (vect_length array));;
